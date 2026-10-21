@@ -1,0 +1,13 @@
+{
+  "name": "pi-codex-memory-readonly",
+  "version": "0.1.0",
+  "description": "Read-only memory bridge for the pi coding agent: reads OpenAI Codex's local memory (~/.codex/memories) with a hard no-write-back guard.",
+  "license": "MIT",
+  "keywords": [
+    "pi",
+    "pi-coding-agent",
+    "codex",
+    "memory",
+    "extension"
+  ]
+}
